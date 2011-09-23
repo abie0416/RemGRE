@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>readme</title>
+    <style type="text/css">
+        .style1 {
+            color: #FF0000;
+        }
+    </style>
+</head>
+<body>
+<h4><font face="微软雅黑">1. 意义：该程序旨在帮助在GRE单词中苦苦挣扎中的机油们脱离苦海。</font></h4>
+<h4><font face="微软雅黑">2. 如何操作：进入测试后，看到单词首先回想中文意思，然后按 J 显示单词意思，如果回想正确，就按 I ，否则按 O 。本程序会把所有没能正确回想起来的单词记入”遗忘列表“，在本轮测试结束后会对”遗忘列表“中的单词再次记忆，以此类推，直到所有单词都能被准确回想起。另外，在新版本中添加了Backspace键，按了之后撤销原先操作。</font></h4>
+<h4><font face="微软雅黑">3. 本程序采用纯键盘操作（当然也可以用鼠标），所有的操作都可以通过控制台（通过':'开启命令行输入）完成，命令介绍如下：</font></h4>
+<font face="微软雅黑">	about : 
+    <br />
+&nbsp;&nbsp;&nbsp; 查看“关于”文档（也可以通过在主窗口中右击弹出的菜单中查看）。<br />
+&nbsp;&nbsp;&nbsp; <span class="style1">快捷键：A</span></font><br />
+<font face="微软雅黑">	clearall : 清除所有在“遗忘列表”中的记录项。</font><br />
+<font face="微软雅黑">	clear [word] : 清除“遗忘列表”中的指定单词（注：[word]表示参数，只要把指定的单词替换[word]即可，譬如要清除forebone这个单词，则输入clear forebone）。</font><br />
+<font face="微软雅黑">	quit : 
+    <br />
+&nbsp;&nbsp;&nbsp; 退出该程序。<br />
+&nbsp;&nbsp;&nbsp; <span class="style1">快捷键：Q</span></font><br />
+<font face="微软雅黑">	jump [number] : 
+    <br />
+&nbsp;&nbsp;&nbsp; 把单词跳到指定位置（譬如在记忆某个共有150个单词的单元时，在75个单词位置不小心把程序关闭了，打开程序后，就可以直接跳至第75个单词处）。</font><br />
+<font face="微软雅黑">	save [c/m] [path] : 
+    <br />
+&nbsp;&nbsp;&nbsp; 把指定列表（c表示当前测试列表；m表示当前遗忘列表）中的单词存入path所指定的文件。</font><br />
+<font face="微软雅黑">	load [path] : 
+    <br />
+&nbsp;&nbsp;&nbsp; 从path所指定的文件中读出单词进行测试。</font><br />
+<font face="微软雅黑">	show : 
+    <br />
+&nbsp;&nbsp;&nbsp; 查看遗忘列表。<br />
+&nbsp;&nbsp;&nbsp; <span class="style1">快捷键：S</span></font><br />
+<font face="微软雅黑">	test [para] : 
+    <br />
+&nbsp;&nbsp;&nbsp; 测试path所指list（共有50个list），格式如下：3;4;5 (表示第三第四第五单元），3-8；10；13 （表示三到八单元，第十单元和第十三单元）。不同的元素以分号隔开，在上例中，3-8是一个元素，10是一个元素，其中分号是英文输入模式下的分号（即半角），连字符也是英文输入模式下的。</font><br />
+<font face="微软雅黑">	look (word) : 
+    <br />
+&nbsp;&nbsp;&nbsp; 查询指定单词的详细意思和例句（联网状态下）。如果不指定，则自动查询当前所测试单词的详细意思和例句。也可以通过双击主界面上的单词来查询。</font>
+<h4><font face="微软雅黑">4. 最后：如果您发现任何bug，请发邮件到我的E-mail：abie0416@gmail.com，谢谢！</font></h4>
+</body>
+</html>

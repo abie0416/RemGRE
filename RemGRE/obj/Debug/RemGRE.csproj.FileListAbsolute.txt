@@ -1,0 +1,60 @@
+F:\WorkStation\C#Work\C# Programs\RemGRE\RemGRE\bin\Debug\RemGRE.exe
+F:\WorkStation\C#Work\C# Programs\RemGRE\RemGRE\bin\Debug\RemGRE.pdb
+F:\WorkStation\C#Work\C# Programs\RemGRE\RemGRE\obj\Debug\ResolveAssemblyReference.cache
+F:\WorkStation\C#Work\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.Browser.resources
+F:\WorkStation\C#Work\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.Console.resources
+F:\WorkStation\C#Work\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.Form1.resources
+F:\WorkStation\C#Work\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.Properties.Resources.resources
+F:\WorkStation\C#Work\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.ShowMissings.resources
+F:\WorkStation\C#Work\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.csproj.GenerateResource.Cache
+F:\WorkStation\C#Work\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.exe
+F:\WorkStation\C#Work\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.pdb
+I:\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.exe
+I:\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.pdb
+I:\C# Programs\RemGRE\RemGRE\bin\Debug\RemGRE.exe.config
+I:\C# Programs\RemGRE\RemGRE\bin\Debug\RemGRE.exe
+I:\C# Programs\RemGRE\RemGRE\bin\Debug\RemGRE.pdb
+I:\C# Programs\RemGRE\RemGRE\obj\Debug\ResolveAssemblyReference.cache
+I:\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.Browser.resources
+I:\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.Console.resources
+I:\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.Form1.resources
+I:\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.Properties.Resources.resources
+I:\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.ShowMissings.resources
+I:\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.csproj.GenerateResource.Cache
+C:\Users\aegiryy\Documents\Visual Studio 2008\Projects\RemGRE\RemGRE\bin\Debug\RemGRE.exe.config
+C:\Users\aegiryy\Documents\Visual Studio 2008\Projects\RemGRE\RemGRE\obj\Debug\RemGRE.exe
+C:\Users\aegiryy\Documents\Visual Studio 2008\Projects\RemGRE\RemGRE\obj\Debug\RemGRE.pdb
+C:\Users\aegiryy\Documents\Visual Studio 2008\Projects\RemGRE\RemGRE\bin\Debug\RemGRE.exe
+C:\Users\aegiryy\Documents\Visual Studio 2008\Projects\RemGRE\RemGRE\bin\Debug\RemGRE.pdb
+C:\Users\aegiryy\Documents\Visual Studio 2008\Projects\RemGRE\RemGRE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aegiryy\Documents\Visual Studio 2008\Projects\RemGRE\RemGRE\obj\Debug\RemGRE.Browser.resources
+C:\Users\aegiryy\Documents\Visual Studio 2008\Projects\RemGRE\RemGRE\obj\Debug\RemGRE.Form1.resources
+C:\Users\aegiryy\Documents\Visual Studio 2008\Projects\RemGRE\RemGRE\obj\Debug\RemGRE.Properties.Resources.resources
+C:\Users\aegiryy\Documents\Visual Studio 2008\Projects\RemGRE\RemGRE\obj\Debug\RemGRE.ShowMissings.resources
+C:\Users\aegiryy\Documents\Visual Studio 2008\Projects\RemGRE\RemGRE\obj\Debug\RemGRE.csproj.GenerateResource.Cache
+C:\Documents and Settings\aegiryy\桌面\RemGRE\RemGRE\bin\Debug\RemGRE.exe.config
+C:\Documents and Settings\aegiryy\桌面\RemGRE\RemGRE\obj\Debug\RemGRE.exe
+C:\Documents and Settings\aegiryy\桌面\RemGRE\RemGRE\obj\Debug\RemGRE.pdb
+C:\Documents and Settings\aegiryy\桌面\RemGRE\RemGRE\bin\Debug\RemGRE.exe
+C:\Documents and Settings\aegiryy\桌面\RemGRE\RemGRE\bin\Debug\RemGRE.pdb
+C:\Documents and Settings\aegiryy\桌面\RemGRE\RemGRE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aegiryy\桌面\RemGRE\RemGRE\obj\Debug\RemGRE.Browser.resources
+C:\Documents and Settings\aegiryy\桌面\RemGRE\RemGRE\obj\Debug\RemGRE.Form1.resources
+C:\Documents and Settings\aegiryy\桌面\RemGRE\RemGRE\obj\Debug\RemGRE.Properties.Resources.resources
+C:\Documents and Settings\aegiryy\桌面\RemGRE\RemGRE\obj\Debug\RemGRE.ShowMissings.resources
+C:\Documents and Settings\aegiryy\桌面\RemGRE\RemGRE\obj\Debug\RemGRE.csproj.GenerateResource.Cache
+E:\C# Programs\RemGRE\RemGRE\bin\Debug\RemGRE.exe.config
+E:\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.exe
+E:\C# Programs\RemGRE\RemGRE\obj\Debug\RemGRE.pdb
+C:\Users\Abie\Desktop\RemGRE\RemGRE\bin\Debug\RemGRE.exe.config
+C:\Users\Abie\Desktop\RemGRE\RemGRE\obj\Debug\RemGRE.exe
+C:\Users\Abie\Desktop\RemGRE\RemGRE\obj\Debug\RemGRE.pdb
+C:\Users\Abie\Desktop\RemGRE\RemGRE\bin\Debug\RemGRE.exe
+C:\Users\Abie\Desktop\RemGRE\RemGRE\bin\Debug\RemGRE.pdb
+C:\Users\Abie\Desktop\RemGRE\RemGRE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abie\Desktop\RemGRE\RemGRE\obj\Debug\RemGRE.Browser.resources
+C:\Users\Abie\Desktop\RemGRE\RemGRE\obj\Debug\RemGRE.Form1.resources
+C:\Users\Abie\Desktop\RemGRE\RemGRE\obj\Debug\RemGRE.Properties.Resources.resources
+C:\Users\Abie\Desktop\RemGRE\RemGRE\obj\Debug\RemGRE.ShowMissings.resources
+C:\Users\Abie\Desktop\RemGRE\RemGRE\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Abie\Desktop\RemGRE\RemGRE\obj\Debug\GenerateResource-ResGen.write.1.tlog

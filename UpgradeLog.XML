@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RemGRE">
+</Property><Property Name="解决方案文件" Value="C:\Users\Abie\Desktop\RemGRE\RemGRE.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Abie\Desktop\RemGRE\RemGRE.suo">
+</Property><Property Name="Date" Value="2011年9月22日">
+</Property><Property Name="Time" Value="21:19">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RemGRE.sln" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RemGRE.suo" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE.suo">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\RemGRE.csproj" Description="项目文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\RemGRE.csproj">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\Browser.cs" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\Browser.cs">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\Browser.Designer.cs" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\Browser.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\ChoiceAnalyzer.cs" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\ChoiceAnalyzer.cs">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\Form1.cs" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\Form1.cs">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\Form1.Designer.cs" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\Program.cs" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\Program.cs">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\Reader.cs" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\Reader.cs">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\ShowMissings.cs" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\ShowMissings.cs">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\ShowMissings.Designer.cs" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\ShowMissings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\app.config" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\app.config">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\bin\Debug\vocabulary.rem" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\bin\Debug\vocabulary.rem">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\webgame.ico" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\webgame.ico">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\Browser.resx" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\Browser.resx">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\Form1.resx" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\Form1.resx">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\ShowMissings.resx" Description="文件已成功备份为 C:\Users\Abie\Desktop\RemGRE\Backup\RemGRE\ShowMissings.resx">
+</Event><Event ErrorLevel="1" Project="RemGRE" Source="RemGRE\RemGRE.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\RemGRE.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="RemGRE" Source="RemGRE\RemGRE.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RemGRE.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="RemGRE.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RemGRE" Source="RemGRE\app.config" Description="文件已成功转换。所有的 &lt;supportedRuntime&gt; 和 &lt;requiredRuntime&gt; 标记都已移除，以使项目能够用 Visual Studio 2005 生成并运行。">
+</Event><Event ErrorLevel="3" Project="RemGRE" Source="RemGRE\app.config" Description="Converted">
+</Event></UpgradeLog>
